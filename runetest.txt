@@ -1,0 +1,16 @@
+
+this program should be in c programming lanaguage...
+hello, ive been working on a concept of a universal "linux" executable tester/analyzer.
+and two different times the projects rune_analyze and runescope were not built right, or kinda veared off from what i want.
+
+i want to give it another try, even though im not as educated as i would like to be in this field.
+
+this time well call it runetest.
+
+it should have its own options, the executable's name and complex options after executable's name, it should have command line passthrogh.
+we should be able to collect extensive information about executable and its options, in --static mode for static analysis.
+and when runetest runs normally it should run dynamic tests on the executable and its option testing for proper memory management, performance, security, and even check to see if deffensive programming was used.
+
+is this possible? and maybe we can use tools that already do this kind of work like strace, ltrace, valgrind?
+
+can you help me out, as im not as educated in this field as id like to be?
